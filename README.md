@@ -1,0 +1,2 @@
+# Public-Health-Genomics-Knowledge-Base
+The CDC Public Health Genomics Knowledge Base is an online, continuously updated, searchable database of published scientific literature, CDC resources, and other materials that address the translation of genomic discoveries into improved health care and disease prevention. The Knowledge Base is curated by CDC staff and is regularly updated to reflect ongoing developments in the field. This compendium of databases can be searched for genomics-related information on any specific topic
